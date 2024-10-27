@@ -1,6 +1,7 @@
+
 export const teamData = [
   {
-    img: "/img/team-1.jpg",
+    img: "/img/zulqarnain.png",
     name: "Muhammad Zulqarnain",
     position: "Founder & CEO",
     socials: [
@@ -38,7 +39,7 @@ export const teamData = [
     ],
   },
   {
-    img: "/img/team-2.jpg",
+    img: "/img/basit.png",
     name: "Basit Naeem",
     position: "Project Manager",
     socials: [

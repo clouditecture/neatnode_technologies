@@ -8,7 +8,7 @@ import {
 const Team = () => {
     return (
         <div className="container mx-auto">
-            <PageTitle section="Our Team" heading="Introducing the Team">
+            <PageTitle section="Our Team">
             </PageTitle>
             <div className="mt-24 grid grid-cols-1 gap-12 gap-x-24 md:grid-cols-2 xl:grid-cols-4">
                 {teamData.map(({ img, name, position, socials }) => (
